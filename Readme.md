@@ -14,7 +14,7 @@ Start with:
     # jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 
-<image src="sim_pulse.png" />
+<image src="images/sim_pulse.png" />
 <image src="http://blog.farsinotare.com/media/images/pn_plot.PNG" />
 
 License
