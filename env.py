@@ -9,3 +9,9 @@ def fetch_results(nodes):
         ys.append(y)
         
     return (xs, ys)
+
+def show_ckt(fname):
+    f = open(fname)
+    ls = f.readlines()
+    for l in ls:
+        print(l.strip())
